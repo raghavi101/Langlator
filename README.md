@@ -1,4 +1,4 @@
-# Langlator
+# Langslator
 Language Translator
 The Lansglator is a web application capable of translating words, 
 phrases and paragraphs from one chosen <br> language to another chosen language.
